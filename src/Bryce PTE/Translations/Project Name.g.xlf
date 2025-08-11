@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Project Name">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1776355858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sample - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1776355858 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sample - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1776355858 - Field 1776355858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sample - Field Sample - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1776355858 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sample - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2109396406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sample Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2109396406 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sample Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2109396406 - Control 415504711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Id field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sample Card - Control Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2109396406 - Control 1776355858 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sample field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sample Card - Control Sample - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2109396406 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sample Card - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2109396406 - Control 2404024704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Grid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sample Card - Control MyGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2109396406 - Control 2725326006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Fixed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sample Card - Control MyFixed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2109396406 - Control 254509602 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies some field value.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sample Card - Control SomeField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2109396406 - Control 254509602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sample Card - Control SomeField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1776355858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sample - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1776355858 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sample - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1776355858 - Control 1882855425 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Do a Test field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sample - Control TestCtrl - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1776355858 - Control 1882855425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do a Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sample - Control TestCtrl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1776355858 - Action 3408762992 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Does the thing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sample - Action Thing - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1776355858 - Action 3408762992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do the thing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sample - Action Thing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1776355858 - ReportLayout 411445029 - Property 2166945456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Summary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sample - ReportLayout Base Extension Name - Property Summary</note>
+        </trans-unit>
+        <trans-unit id="Report 1776355858 - ReportLayout 411445029 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base Extension Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sample - ReportLayout Base Extension Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1776355858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Sample - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2292167300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query Sample Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1776355858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Sample - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1776355858 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Sample - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 523354100 - Control 3731443053 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Specifies the value of the Sample Id field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer Card - Control ISZ Sample Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 523354100 - Control 883096300 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Customer Card - Control ISZ Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1994964448 - Field 3731443053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Sample Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Customer - Field ISZ Sample Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1994964448 - Field 883096300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Customer - Field ISZ Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1776355858 - EnumValue 3429194737 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Sample - EnumValue Sample1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1776355858 - EnumValue 2791498120 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sample 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Sample - EnumValue Sample2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 3710813537 - EnumValue 4285200796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 3710813537">
+          <source>Example</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension Sales Document Type - EnumValue Example - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="ReportExtension 919756715 - ReportLayout 1776355858 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Report 919756715">
+          <source>Base Extension Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">ReportExtension Customer - Top 10 List - ReportLayout Sample - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
