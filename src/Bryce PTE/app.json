@@ -1,0 +1,33 @@
+{
+  "id": "bf9f2b00-1ad1-4ddc-b23d-36653bd07ba9",
+  "name": "Bryce PTE",
+  "publisher": "Implementation Specialists",
+  "version": "0.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "../Resources/ISLogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "0.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.1",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
